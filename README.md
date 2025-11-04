@@ -19,4 +19,4 @@ I love building **scalable, modern applications**, exploring new technologies in
 - 🌱 **Currently Learning:** Next.js, Advanced React, Tailwind CSS, CI/CD, Machine Learning  
 - 🏅 **Strengths:** Problem solving, clean & maintainable code, fast learning, collaboration  
 
-
+## This will be updated soon
