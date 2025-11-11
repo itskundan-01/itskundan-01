@@ -20,3 +20,6 @@ I love building **scalable, modern applications**, exploring new technologies in
 - 🏅 **Strengths:** Problem solving, clean & maintainable code, fast learning, collaboration  
 
 ## This will be updated soon, Stay Tuned
+
+
+This page will be updated
