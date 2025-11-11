@@ -22,4 +22,4 @@ I love building **scalable, modern applications**, exploring new technologies in
 ## This will be updated soon, Stay Tuned
 
 
-This page will be updated, it is taking time because
+This page will be updated, it is taking time because there is no new file which I have right now to push
