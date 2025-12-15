@@ -141,7 +141,7 @@ I love building **scalable, modern applications**, exploring new technologies in
   <a href="https://github.com/itskundan-01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/itskundan-01">
+  <a href="https://linkedin.com/in/itskundankumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
